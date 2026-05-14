@@ -58,7 +58,7 @@ A creative and responsive Form Validation Web Application developed using HTML, 
 ```bash
 form-validation/
 │
-├── form.html
+├── index.html
 ├── success.html
 ├── form.css
 └── form.js
